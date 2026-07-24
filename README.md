@@ -5,10 +5,10 @@ Welcome to the landing page for the hackathon. The hackathon will commence 8/18.
  **All team members must submit their own registration form to participate.**  
 
 # Overview
-This is a prediction challenge with spatial transcriptomics data. The objective of the hackathon is to correctly predict cell type labels in MERFISH_cell_type_annotation. Group performance will be measured by the confusion matrix overall accuracy: number of correct predictions / total number of predictions.
+This is a prediction challenge with spatial transcriptomics data. The objective of the hackathon is to correctly predict cell type labels. Group performance will be measured by the confusion matrix overall accuracy: number of correct predictions / total number of predictions.
 
 # Challenge description
-The challenge is to classify cell types in spatial transcriptomics dataset. A full description of the challenge and dataset will appear here: [Data.Description.md](Data.Description.md).
+A full description of the challenge and dataset will appear here: [Data.Description.md](Data.Description.md).
 
 # Logistics
 
