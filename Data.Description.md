@@ -37,7 +37,7 @@ The objective of the hackathon is to correctly predict cell type labels in MERFI
 
 **Submission**
 
-Predictions should be posted to your GitHub account as plain text with two tab-delimited columns in the same order listed in "meta_test.csv." The first column contains the cell ID, the second column contains the predicted cell type. Your predictions should be one of the 60 cell types in the training data.
+Predictions should be posted to your GitHub account as plain text with two columns in the same order listed in "meta_test.csv." The first column contains the cell ID, the second column contains the predicted cell type. Your predictions should be one of the 60 cell types in the training data. An example prediction file is posted at [prediction/prediction.csv](prediction/prediction.csv).
 
 **Scoring**
 

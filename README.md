@@ -14,7 +14,7 @@ The challenge is to classify cell types in a mouse neuronal tissue dataset colle
 
 0.   Each team must have a github handle associated with it in order to participate.  Make sure you edit your registration or email the organizers to provide this, if you haven't yet. Your team will not be scored if you do not provide a handle.
 1.   You may add team members up
-to noon EDT on 8/15 by editing your response to the google form or emailing the organizers.
+to noon EDT on 8/18 by editing your response to the google form or emailing the organizers.
 2.  Teams of entirely undergraduates will be in the undergraduate
 division, else they will be in the open division.
 3. Further instructions for submitting predictions will be posted here as they become available
