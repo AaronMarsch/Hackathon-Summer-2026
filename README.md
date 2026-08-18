@@ -20,6 +20,8 @@ division, else they will be in the open division.
 3. Further instructions for submitting predictions will be posted here as they become available
 4.  Competition runs through 2:59 PM EDT 22-August-2026.  The predictions each team has committed to their repository at that time will be used to determine their final score. Captains must submit their own predictions. Any use of predictions from other teams is disqualifying. Winning teams must submit their code to organizers to claim their prize.
 
+Scores will be posted shortly after 3pm EDT each day here [Leaderboard.Hackathon.2026.md](Leaderboard.Hackathon.2026.md). 
+
 # Prizes
    
 1.  First place in each division: $300 + $75 x (team size)
